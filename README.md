@@ -1,4 +1,4 @@
-# Volatility Model
+# Contents
 
 * A repo stores the following:
   * Multiplicative GARCH Model
